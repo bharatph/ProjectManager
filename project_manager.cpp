@@ -5,6 +5,6 @@ using namespace std;
 using namespace pm;
 
 int main(int argc, char *argv[]) {
-  ProjectManager pm;
+  ProjectManager p;
   return 0;
 }
